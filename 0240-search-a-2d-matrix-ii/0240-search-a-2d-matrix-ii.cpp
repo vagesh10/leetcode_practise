@@ -8,11 +8,17 @@ public:
         int row=0;
         int col=cSize-1;
 
-        for(int i=0;i<rSize;i++){
-            for(int j=0;j<cSize;j++){
-                if(matrix[i][j]==target){
-                    return true;
-                }
+        while(row < rSize && col>=0){
+            int curr=matrix[row][col];
+
+            if(curr==target){
+                return true;
+            }
+            else if(curr > target){
+                col-=1;
+            }
+            else{
+                row+=1;
             }
         }
 
