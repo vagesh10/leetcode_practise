@@ -10,9 +10,10 @@ public:
 
         while(1){
             for(int i=1;i<=n-1;i++){
-                if(k==strs[i].size()) return strs[0].substr(0,k);
+                
+                if(k==strs[i].size() || (strs[i][k]!=strs[0][k]) ) 
+                             return strs[0].substr(0,k);
 
-                if(strs[i][k]!=strs[0][k]) return strs[0].substr(0,k);
             }
             k++;
         }
