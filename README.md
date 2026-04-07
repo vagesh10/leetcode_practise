@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/vagesh10/leetcode_practise/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vagesh10/leetcode_practise/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vagesh10/leetcode_practise/tree/master/0278-first-bad-version) |
+| [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -81,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
