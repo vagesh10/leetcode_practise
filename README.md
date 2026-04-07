@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vagesh10/leetcode_practise/tree/master/0205-isomorphic-strings) |
+| [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vagesh10/leetcode_practise/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
