@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vagesh10/leetcode_practise/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/vagesh10/leetcode_practise/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vagesh10/leetcode_practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vagesh10/leetcode_practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
