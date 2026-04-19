@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/vagesh10/leetcode_practise/tree/master/0263-ugly-number) |
 | [1903-largest-odd-number-in-string](https://github.com/vagesh10/leetcode_practise/tree/master/1903-largest-odd-number-in-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vagesh10/leetcode_practise/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
