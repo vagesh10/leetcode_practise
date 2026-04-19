@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/vagesh10/leetcode_practise/tree/master/1480-running-sum-of-1d-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vagesh10/leetcode_practise/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/vagesh10/leetcode_practise/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vagesh10/leetcode_practise/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vagesh10/leetcode_practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/vagesh10/leetcode_practise/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vagesh10/leetcode_practise/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vagesh10/leetcode_practise/tree/master/0151-reverse-words-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vagesh10/leetcode_practise/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3794-reverse-string-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
