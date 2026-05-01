@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vagesh10/leetcode_practise/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/vagesh10/leetcode_practise/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vagesh10/leetcode_practise/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/vagesh10/leetcode_practise/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vagesh10/leetcode_practise/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
