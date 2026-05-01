@@ -6,11 +6,14 @@ class Solution:
         n=len(nums)
         goal=n-1
     
-        maximum=1
+        
 
         for i in range(n-2,-1,-1):
             if(i+nums[i]>=goal):
                goal=i
               
 
-        return True if goal==0 else False
+        if(goal==0):
+            return True
+        else:
+            return False
