@@ -13,7 +13,11 @@ class Solution:
                 matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
         
 
-        for row in matrix:
-            row.reverse()
+        for row in range(n):
+            for col in range(n//2):
+                matrix[row][col],matrix[row][n-col-1]=matrix[row][n-col-1],matrix[row][col]
+        
+        
+
 
         
