@@ -5,8 +5,8 @@ class Solution:
         for i in range(0,n):
             s=str(nums[i])
             for i in s:
-                l=int(i)
-                ans.append(l)
+                
+                ans.append(int(i))
 
            
                 
