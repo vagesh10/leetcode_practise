@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vagesh10/leetcode_practise/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/vagesh10/leetcode_practise/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vagesh10/leetcode_practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/vagesh10/leetcode_practise/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vagesh10/leetcode_practise/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vagesh10/leetcode_practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vagesh10/leetcode_practise/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vagesh10/leetcode_practise/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vagesh10/leetcode_practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vagesh10/leetcode_practise/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3794-reverse-string-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3794-reverse-string-prefix) |
