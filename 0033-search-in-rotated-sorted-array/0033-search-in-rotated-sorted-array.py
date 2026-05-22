@@ -14,7 +14,7 @@ class Solution:
             
 
             elif(nums[l]<=nums[mid]):
-                if(nums[l] <= target and target < nums[mid]):
+                if(nums[l] <= target and target <= nums[mid]):
                     r=mid-1
                 else:
                     l=mid+1
