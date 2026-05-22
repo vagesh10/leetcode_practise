@@ -12,7 +12,7 @@ class Solution:
             w=right-left
             Area=h*w
             maxi=max(maxi,Area)
-            if(height[left]<height[right]):
+            if(height[left]<=height[right]):
                 left+=1
             else:
                 right-=1
