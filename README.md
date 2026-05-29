@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/vagesh10/leetcode_practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vagesh10/leetcode_practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vagesh10/leetcode_practise/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vagesh10/leetcode_practise/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vagesh10/leetcode_practise/tree/master/0263-ugly-number) |
 | [0788-rotated-digits](https://github.com/vagesh10/leetcode_practise/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/vagesh10/leetcode_practise/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vagesh10/leetcode_practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vagesh10/leetcode_practise/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
