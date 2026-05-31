@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vagesh10/leetcode_practise/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
