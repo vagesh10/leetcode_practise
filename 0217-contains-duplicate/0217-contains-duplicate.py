@@ -3,11 +3,12 @@ class Solution:
         
         n=len(nums)
         seen=set()
+        nums.sort()
 
-        for i in range(n):
-            if nums[i] in seen:
+        for i in range(1,n):
+            if nums[i] == nums[i-1]:
                 return True
-            seen.add(nums[i])
+            
         return False
 
         
