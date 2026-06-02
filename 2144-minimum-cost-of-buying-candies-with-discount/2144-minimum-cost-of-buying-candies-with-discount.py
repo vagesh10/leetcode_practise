@@ -1,21 +1,15 @@
 class Solution:
     def minimumCost(self, cost: List[int]) -> int:
-       
+
+        c=0
+        s=sorted(cost,reverse=True)
         n=len(cost)
-        c=sorted(cost,reverse=True)
-        s=0
-        # if n==1:
-        #     return c[0]
-        # if (n==2):
-        #     return c[0]+c[1]
+
         
-    
-        for i in range(n):
+        for i in range(0,n):
             if(i%3!=2):
-                print(c[i])
-                s+=c[i]
-        return s
-            
+                c+=s[i]
+        return c
 
 
         
