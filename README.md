@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/vagesh10/leetcode_practise/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/vagesh10/leetcode_practise/tree/master/1903-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vagesh10/leetcode_practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vagesh10/leetcode_practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vagesh10/leetcode_practise/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vagesh10/leetcode_practise/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/vagesh10/leetcode_practise/tree/master/0788-rotated-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vagesh10/leetcode_practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/vagesh10/leetcode_practise/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vagesh10/leetcode_practise/tree/master/0176-second-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vagesh10/leetcode_practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
