@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vagesh10/leetcode_practise/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/vagesh10/leetcode_practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vagesh10/leetcode_practise/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/vagesh10/leetcode_practise/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
@@ -164,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vagesh10/leetcode_practise/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vagesh10/leetcode_practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vagesh10/leetcode_practise/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/vagesh10/leetcode_practise/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vagesh10/leetcode_practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vagesh10/leetcode_practise/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vagesh10/leetcode_practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
