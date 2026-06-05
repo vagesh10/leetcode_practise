@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vagesh10/leetcode_practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vagesh10/leetcode_practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3024-type-of-triangle](https://github.com/vagesh10/leetcode_practise/tree/master/3024-type-of-triangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vagesh10/leetcode_practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vagesh10/leetcode_practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vagesh10/leetcode_practise/tree/master/0263-ugly-number) |
 | [0788-rotated-digits](https://github.com/vagesh10/leetcode_practise/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/vagesh10/leetcode_practise/tree/master/1903-largest-odd-number-in-string) |
+| [3024-type-of-triangle](https://github.com/vagesh10/leetcode_practise/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vagesh10/leetcode_practise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vagesh10/leetcode_practise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vagesh10/leetcode_practise/tree/master/3783-mirror-distance-of-an-integer) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/vagesh10/leetcode_practise/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vagesh10/leetcode_practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vagesh10/leetcode_practise/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3024-type-of-triangle](https://github.com/vagesh10/leetcode_practise/tree/master/3024-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vagesh10/leetcode_practise/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vagesh10/leetcode_practise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
