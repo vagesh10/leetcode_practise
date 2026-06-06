@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vagesh10/leetcode_practise/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vagesh10/leetcode_practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vagesh10/leetcode_practise/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/vagesh10/leetcode_practise/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3024-type-of-triangle](https://github.com/vagesh10/leetcode_practise/tree/master/3024-type-of-triangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vagesh10/leetcode_practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/vagesh10/leetcode_practise/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vagesh10/leetcode_practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2574-left-and-right-sum-differences](https://github.com/vagesh10/leetcode_practise/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |
