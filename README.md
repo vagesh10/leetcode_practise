@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vagesh10/leetcode_practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vagesh10/leetcode_practise/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vagesh10/leetcode_practise/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vagesh10/leetcode_practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/vagesh10/leetcode_practise/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vagesh10/leetcode_practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vagesh10/leetcode_practise/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vagesh10/leetcode_practise/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vagesh10/leetcode_practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vagesh10/leetcode_practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/vagesh10/leetcode_practise/tree/master/2574-left-and-right-sum-differences) |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vagesh10/leetcode_practise/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vagesh10/leetcode_practise/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vagesh10/leetcode_practise/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
