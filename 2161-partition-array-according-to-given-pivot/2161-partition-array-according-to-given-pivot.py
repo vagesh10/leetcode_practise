@@ -10,12 +10,12 @@ class Solution:
         for i in range(n):
             if(nums[i]<pivot):
                 s.append(nums[i])
-        for i in range(n):
-            if(nums[i]==pivot):
+        
+            elif(nums[i]==pivot):
                 e.append(nums[i])
-        for j in range(n):
-            if(nums[j]>pivot):
-                l.append(nums[j])
+        
+            else:
+                l.append(nums[i])
             
         return s+e+l
         
