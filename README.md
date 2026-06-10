@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vagesh10/leetcode_practise/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vagesh10/leetcode_practise/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/vagesh10/leetcode_practise/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/vagesh10/leetcode_practise/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vagesh10/leetcode_practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vagesh10/leetcode_practise/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vagesh10/leetcode_practise/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/vagesh10/leetcode_practise/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vagesh10/leetcode_practise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vagesh10/leetcode_practise/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/vagesh10/leetcode_practise/tree/master/0788-rotated-digits) |
