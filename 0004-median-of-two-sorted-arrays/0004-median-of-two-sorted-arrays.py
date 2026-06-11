@@ -7,10 +7,9 @@ class Solution:
         
 
         n=len(m)
-        mid=n//2
 
         if(n%2!=0):
             return m[n//2]
         else:
-            return (m[mid-1]+m[mid])/2
+            return (m[n//2]+m[(n//2)-1])/2
         
