@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vagesh10/leetcode_practise/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/vagesh10/leetcode_practise/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vagesh10/leetcode_practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vagesh10/leetcode_practise/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vagesh10/leetcode_practise/tree/master/0048-rotate-image) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vagesh10/leetcode_practise/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/vagesh10/leetcode_practise/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/vagesh10/leetcode_practise/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vagesh10/leetcode_practise/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vagesh10/leetcode_practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vagesh10/leetcode_practise/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/vagesh10/leetcode_practise/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/vagesh10/leetcode_practise/tree/master/0451-sort-characters-by-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vagesh10/leetcode_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
