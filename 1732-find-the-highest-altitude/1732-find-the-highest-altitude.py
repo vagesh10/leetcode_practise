@@ -4,7 +4,7 @@ class Solution:
 
         n=len(gain)
         s=0
-        ans=[0]*n
+        ans=[0]
 
     
 
