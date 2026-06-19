@@ -11,7 +11,7 @@ class Solution:
         for i in gain:
             s+=i
             max_height=max(max_height,s)
-            print(max_height)
+        
         
         return max_height
 
