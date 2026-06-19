@@ -4,15 +4,16 @@ class Solution:
 
         n=len(gain)
         s=0
-        ans=[0]*n
+        max_height=0
 
     
 
-        for i in range(n):
+        for i in range(0,n):
             s+=gain[i]
-            ans.append(s)
+            max_height=max(max_height,s)
+            print(max_height)
         
-        return max(ans)
+        return max_height
 
 
         
