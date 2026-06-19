@@ -11,6 +11,7 @@ class Solution:
         for i in range(0,n):
             s+=gain[i]
             ans.append(s)
+        print(ans)
     
         
         return max(ans)
