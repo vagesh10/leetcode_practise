@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vagesh10/leetcode_practise/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vagesh10/leetcode_practise/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vagesh10/leetcode_practise/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/vagesh10/leetcode_practise/tree/master/1189-maximum-number-of-balloons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vagesh10/leetcode_practise/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vagesh10/leetcode_practise/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vagesh10/leetcode_practise/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vagesh10/leetcode_practise/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vagesh10/leetcode_practise/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/vagesh10/leetcode_practise/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/vagesh10/leetcode_practise/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/vagesh10/leetcode_practise/tree/master/1903-largest-odd-number-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vagesh10/leetcode_practise/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/vagesh10/leetcode_practise/tree/master/3612-process-string-with-special-operations-i) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vagesh10/leetcode_practise/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/vagesh10/leetcode_practise/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
