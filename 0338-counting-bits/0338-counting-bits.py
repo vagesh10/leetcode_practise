@@ -4,8 +4,8 @@ class Solution:
         l=[]
 
         for i in range(0,n+1):
-            rem=i.bit_count()
-            l.append(rem)
+            rem=bin(i)
+            l.append(rem.count('1'))
         return l
 
 
