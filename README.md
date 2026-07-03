@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vagesh10/leetcode_practise/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/vagesh10/leetcode_practise/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
